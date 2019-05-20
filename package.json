@@ -1,0 +1,9 @@
+{
+  "name": "yasp",
+  "version": "1.0.0",
+  "description": "Yet Another Shopping Platform",
+  "main": "index.js",
+  "repository": "https://github.com/PretzelCA/yasp",
+  "author": "Skye Viau (PretzelCA)",
+  "license": "MIT"
+}
